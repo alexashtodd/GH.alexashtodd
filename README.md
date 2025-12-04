@@ -7,5 +7,5 @@
  - Software and Programs: Unity, Scratch, Gamemaker, Visual Studio Code, Adobe (Illustrator, Photoshop)
 
 ## Projects (pinned ones or highlights)
-- ProjectName — 1-liner: what it does and the skill it shows. (link)
+-  red-light-green-light-alexashtodd — a program that lights up a green light when the target is moving >= 1cm/second and the red light lights up when the target is not moving(< 1cm/second).  ([link](https://github.com/alexashtodd/red-light-green-light-alexashtodd))
 
