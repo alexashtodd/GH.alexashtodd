@@ -19,7 +19,3 @@ HC-SRO4(make sure it has 4 pins!)
 
 - You will need to use BOARD numbering to access your pins instead of BCM
 - Wire your HC-SRO4 using this tutorial: Distance Sensor Tutorial. Follow the diagram exactly. Use pin 4 for the Trigger and pin 17 for the Echo.
-
-
-## Contact
-- Email (optional) · GitHub · LinkedIn (if you have one)
